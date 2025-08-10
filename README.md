@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Le Thanh Anh — your friendly dev 😄, fueled by curiosity, caffeine ☕, and a tiny bit of overthinking 🤯.</h1>
 
-###
 
-<img align="right" height="200" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/468603404_18083060743552938_5249826367393089482_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mxTfdyBrYlYQ7kNvwGVqznX&_nc_oc=AdkkyX8hvFTTCJR6ItGTICnXXSz9juapqJmiZYBJMr19OMwdB5eK4fSS3P2TIzWJagk&_nc_zt=23&_nc_ht=scontent.fsgn19-1.fna&_nc_gid=Y2aaKWkChtKJ0cWEVxrtVA&oh=00_AfV_n4_aDuTtTNtJGCtjoz2KNfOb-FLZn-jFMERWkpNIkw&oe=689EA171"  />
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lethanhanh-del&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lethanhanh-del&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lethanhanh-del&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lethanhanh-del&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
